@@ -18,5 +18,8 @@ guide product improvement, marketing strategies, and customer engagement.
    - removing blank rows
    - spliting columns with unneccessary long words and extracing the key words
    - Creating new colunms named percentage rating and using excel functions like [=IF(G3>=50%,"above 50%","below50%")
+   - ``` excel function
+     =IF(G3>=50%,"above 50%","below50%")
+     ```
  - Pivot Table
  - Creating Dash board
