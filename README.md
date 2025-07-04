@@ -9,3 +9,9 @@ This is where I put to work all I have learnt in the excel class after training 
 guide product improvement, marketing strategies, and customer engagement.
 
 ### Data Source: My Primary data source is from my local drive, after downlading the data from my LMS.
+
+### Tools Used: All the work was done using Microsoft excel:
+ - Data collection
+ - Data cleaning
+ - Pivot Table
+ - Creating Dash board
