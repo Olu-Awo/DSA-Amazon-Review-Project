@@ -7,3 +7,5 @@ This is where I put to work all I have learnt in the excel class after training 
 
 ### Project Overview: This data analysis project is aimed at analysing product and customer review data to generate insights that can
 guide product improvement, marketing strategies, and customer engagement.
+
+### Data Source: My Primary data source is from my local drive, after downlading the data from my LMS.
