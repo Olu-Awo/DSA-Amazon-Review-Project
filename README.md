@@ -22,4 +22,4 @@ guide product improvement, marketing strategies, and customer engagement.
      =IF(G3>=50%,"above 50%","below50%")
      ```
  - Pivot Table
- - Creating Dash board
+ - Creating Dash board  
