@@ -11,7 +11,11 @@ guide product improvement, marketing strategies, and customer engagement.
 ### Data Source: My Primary data source is from my local drive, after downlading the data from my LMS.
 
 ### Tools Used: All the work was done using Microsoft excel:
- - Data collection
+ - Data collection: by uploading the data from my local drive
  - Data cleaning
+   - Deleting some columns not needed.
+   - Removing duplicated rows
+   - removing blank rows
+   - spliting columns with unneccessary long words and extracing the key words
  - Pivot Table
  - Creating Dash board
