@@ -22,4 +22,10 @@ guide product improvement, marketing strategies, and customer engagement.
      =IF(G3>=50%,"above 50%","below50%")
      ```
  - Pivot Table
- - Creating Dash board  
+ - Creating Dash board
+   
+ - [Amazon case study Table (1).pdf](https://github.com/user-attachments/files/21072420/Amazon.case.study.Table.1.pdf)
+
+![Amazon case study dash board (1)](https://github.com/user-attachments/assets/72f71194-50bc-4ff9-8429-9b4b4dfc22ee)
+
+
