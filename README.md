@@ -54,7 +54,10 @@ At the EDA stage, the following questions (Q) were answered by taking the follow
      =actual price * rating count
       ```
     - Insert pivot Table, Row: Category, Values: Potential revenue(Sum)
-  - Q10: What is the number of unique products per price range bucket (e.g., <₹200, ₹200–₹500, >₹500)?
+  - Q11: How does the rating relate to the level of discount?
+   - A: Insert scatter plot, x-axis: Discount percentage, y-axis: Rating, used trending lines to show correlation.
+ - Q12: How many products have fewer than 1,000 reviews?
+   -  A: Used the 'CountIF' function ``` =COUNTIF(N2:N1350, "below 1000 reviews") ```
  - Pivot Table
  - Creating Dash board
    
