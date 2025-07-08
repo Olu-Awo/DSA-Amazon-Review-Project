@@ -75,4 +75,8 @@ This involved visualising the data by creating a Dash board
 
 ![Amazon case study dash board (1)](https://github.com/user-attachments/assets/72f71194-50bc-4ff9-8429-9b4b4dfc22ee)
 
+### Conclusions
+From the above dashboard, the following conclusions were drawn:
+- 
+
 
