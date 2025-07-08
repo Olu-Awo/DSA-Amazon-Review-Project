@@ -19,17 +19,35 @@ All the work was done using Microsoft excel to perform the following:
  - Creating Pivot Table
  - Creating Dash board
 
- ####Data Cleaning and Preparation
+ #### Data Cleaning and Preparation
+ I perfomed the following action in the data cleaning and preparation stage.
  - Data collection: by uploading the data from my local drive
- - Data cleaning
    - Deleting some columns not needed.
    - Removing duplicated rows
    - removing blank rows
    - spliting columns with unneccessary long words and extracing the key words
-   - Creating new colunms named percentage rating and using excel functions like [=IF(G3>=50%,"above 50%","below50%")
-   - ``` excel function
+ #### Exploiratory Data Analysis
+At the EDA stage, the following questions (Q) were answered by taking the following actions (A);
+ - Q1: What is the average Discount percentage by Product category?
+   - A: Insert Pivot Table, Rows: category, Values: discount percentage (set to Average)
+ - Q2:How many products are listed under each category?
+   - A: Insert Pivot Table, Rows: category, Values: product id (set to Count)
+ - Q3: What is the total number of reviews per category?
+   - A: Insert Pivot Table, Rows: category, Values: review id (set to Count)
+ - Q4: Which product has the highest average ratings?
+  - A: Insert Pivot Table, Rows: Product name, Values: rating (set to Average), Sort descending by Average rating.
+ - Q5: What is the average actual price versus the discounted price by category?
+  - A: Insert Pivot Table, Rows: category, Values: Actual price (set to Average), Discount price (set to Average)
+ - Q6: Which product has the highest number of reviews?
+  - A: Insert Pivot Table, Rows: Product name, Values: rating (set to Max), Sort by descending order.
+ - Q7: How many products have a discount of 50% or more?
+  - A: Created a new colunms named percentage rating and using excel function: 
+    - ``` excel function
      =IF(G3>=50%,"above 50%","below50%")
      ```
+    - Insert pivot Table, Row: Percentage ratimg, Values: Product id, (set to count)
+  - Q8: What is the distribution of product ratings?
+   -     
  - Pivot Table
  - Creating Dash board
    
