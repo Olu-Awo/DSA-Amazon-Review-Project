@@ -8,9 +8,18 @@ This is where I put to work all I have learnt in the excel class after training.
 ### Project Overview: 
 This data analysis project is aimed at analysing product and customer review data to generate insights that can guide product improvement, marketing strategies, and customer engagement, and in turn, assist all stakeholer to make an informed decision for the growth of the organisation. 
 
-### Data Source: My Primary data source is from my local drive, after downlading the data from my LMS.
+### Data Source: 
+The data is a CSV file supplied by The Incubator Hub downloaded from my LMS into my local drive, it consist of 1465 rows and 16 columns.
 
-### Tools Used: All the work was done using Microsoft excel:
+### Tools Used: 
+All the work was done using Microsoft excel to perform the following:
+- Data collection
+ - Data cleaning
+ - Creating calculated column
+ - Creating Pivot Table
+ - Creating Dash board
+
+ ####Data Cleaning and Preparation
  - Data collection: by uploading the data from my local drive
  - Data cleaning
    - Deleting some columns not needed.
