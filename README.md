@@ -35,19 +35,26 @@ At the EDA stage, the following questions (Q) were answered by taking the follow
  - Q3: What is the total number of reviews per category?
    - A: Insert Pivot Table, Rows: category, Values: review id (set to Count)
  - Q4: Which product has the highest average ratings?
-  - A: Insert Pivot Table, Rows: Product name, Values: rating (set to Average), Sort descending by Average rating.
+   - A: Insert Pivot Table, Rows: Product name, Values: rating (set to Average), Sort descending by Average rating.
  - Q5: What is the average actual price versus the discounted price by category?
-  - A: Insert Pivot Table, Rows: category, Values: Actual price (set to Average), Discount price (set to Average)
+   - A: Insert Pivot Table, Rows: category, Values: Actual price (set to Average), Discount price (set to Average)
  - Q6: Which product has the highest number of reviews?
-  - A: Insert Pivot Table, Rows: Product name, Values: rating (set to Max), Sort by descending order.
+   - A: Insert Pivot Table, Rows: Product name, Values: rating (set to Max), Sort by descending order.
  - Q7: How many products have a discount of 50% or more?
-  - A: Created a new colunms named percentage rating and using excel function: 
+   - A: Created a new colunms named percentage rating and using excel function: 
     - ``` excel function
      =IF(G3>=50%,"above 50%","below50%")
      ```
     - Insert pivot Table, Row: Percentage ratimg, Values: Product id, (set to count)
   - Q8: What is the distribution of product ratings?
-   -     
+    - A: Insert Pivot Table, Rows: Rating, Values: product id (set to Count)
+- Q9: What is the total potential revenue by category?
+  - A: Created a new colunms named potential revenue and using excel function: 
+    - ``` excel function
+     =actual price * rating count
+      ```
+    - Insert pivot Table, Row: Category, Values: Potential revenue(Sum)
+  - Q10: What is the number of unique products per price range bucket (e.g., <₹200, ₹200–₹500, >₹500)?
  - Pivot Table
  - Creating Dash board
    
