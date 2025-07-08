@@ -1,12 +1,12 @@
 # DSA-Amazon-Review-Project
-This is how I built my excel project on DSA project named product review, after classes with the Incubator Hub.
+This an excel based analytic project prepared after a three month training with DSA (The Incubator Hub) , the project consist of a data set from Amazon  review page, which includes product details, name, category, price, discount, ratings e.t.c.
 
-This is where I put to work all I have learnt in the excel class after training with the Incubator Hub
+This is where I put to work all I have learnt in the excel class after training.
 
 ## Project Topic: AMAZON PRODUCT REIEW
 
-### Project Overview: This data analysis project is aimed at analysing product and customer review data to generate insights that can
-guide product improvement, marketing strategies, and customer engagement.
+### Project Overview: 
+This data analysis project is aimed at analysing product and customer review data to generate insights that can guide product improvement, marketing strategies, and customer engagement, and in turn, assist all stakeholer to make an informed decision for the growth of the organisation. 
 
 ### Data Source: My Primary data source is from my local drive, after downlading the data from my LMS.
 
