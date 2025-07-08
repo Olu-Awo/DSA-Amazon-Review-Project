@@ -57,9 +57,19 @@ At the EDA stage, the following questions (Q) were answered by taking the follow
   - Q11: How does the rating relate to the level of discount?
    - A: Insert scatter plot, x-axis: Discount percentage, y-axis: Rating, used trending lines to show correlation.
  - Q12: How many products have fewer than 1,000 reviews?
-   -  A: Used the 'CountIF' function ``` =COUNTIF(N2:N1350, "below 1000 reviews") ```
- - Pivot Table
- - Creating Dash board
+   -  A: Used the 'CountIF' function
+      ```
+      =COUNTIF(N2:N1350, "below 1000 reviews")
+      ```
+      ```
+      =COUNTIF(N3:N1351, "above 1000 reviews")
+      ```
+- Q13: Which categories have products with the highest discounts?
+      - A: Insert Pivot Table, Rows: Category, Values: Discount percentage (set to Max), Sort by descending order.
+- Q14: Identify the top 5 products in terms of rating and number of reviews combined.
+  - A: Added a cloumn: rating * rating count, sorted by descending order, picked top 5.
+### Visualisation  
+Thid involved visualising the data by creating a Dash board
    
  - [Amazon case study Table (1).pdf](https://github.com/user-attachments/files/21072420/Amazon.case.study.Table.1.pdf)
 
