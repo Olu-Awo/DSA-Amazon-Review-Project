@@ -81,4 +81,5 @@ From the above dashboard, the following conclusions were drawn:
 - Only 3 categories (computer & accessories, electronics, home & kitchen) have high product, other categories should also be focus on to see possibilites in sales.
 - Some Products have high ratings as well as high review, Promoting these products should be a focal point as they already gain customer trust.
 
-
+##### Data analysed and prepared by:
+Olusola Awolokun.
