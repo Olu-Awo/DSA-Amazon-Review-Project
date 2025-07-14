@@ -3,7 +3,7 @@ This an excel based analytic project prepared after a three month training with 
 
 This is where I put to work all I have learnt in the excel class after training.
 
-## Project Topic: AMAZON PRODUCT REIEW
+## Project Topic: AMAZON PRODUCT REVIEW
 
 ### Project Overview: 
 This data analysis project is aimed at analysing product and customer review data to generate insights that can guide product improvement, marketing strategies, and customer engagement, and in turn, assist all stakeholer to make an informed decision for the growth of the organisation. 
